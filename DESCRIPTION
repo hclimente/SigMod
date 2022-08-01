@@ -21,5 +21,7 @@ Depends:
 Imports: 
     R.utils (>= 2.9.0),
     STRINGdb (>= 2.6.5),    
-    igraph (>= 1.0.0)
+    igraph (>= 1.0.0),
+    RcppArmadillo,
+    Rcpp
 RoxygenNote: 7.2.0
